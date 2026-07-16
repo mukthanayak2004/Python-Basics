@@ -16,8 +16,18 @@ This repository contains Python programs that I practiced while learning Python 
 8. Reverse Number
 9. Sum of Digits
 10. Count Digits
+11. Sum of List
+12. Largest Number in List
+13. Smallest Number in List
+14. Reverse String
+15. Palindrome String
+16. Factorial Using Function
+17. Count Vowels
+18. Fibonacci Series
+19. Prime Number
+20. Simple Calculator
 
-More programs will be added as I continue learning Python.
+More programs will be added as I continue learning Python and preparing for coding interviews.
 
 ## 💻 Technologies Used
 
